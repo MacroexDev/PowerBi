@@ -1,0 +1,1 @@
+SELECT id as 'slas_id', name, number_time, definition_time FROM glpi_slas

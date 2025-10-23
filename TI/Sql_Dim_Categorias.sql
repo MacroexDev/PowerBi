@@ -1,0 +1,1 @@
+SELECT id as itilcategories_id, name, completename, level FROM glpi_itilcategories

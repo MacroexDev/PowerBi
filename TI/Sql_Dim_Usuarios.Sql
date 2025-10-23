@@ -1,0 +1,1 @@
+SELECT id  as 'users_id',name, realname FROM glpi_users 
